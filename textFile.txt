@@ -1,4 +1,0 @@
-This is my texfile that will be used in my example with git.
-This line will be included in the second commit
-THis line will be included in the third commit
-
